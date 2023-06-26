@@ -1,1 +1,2 @@
-asdd
+def primeNumber():
+    return 2
